@@ -1,0 +1,9 @@
+- Collections in Python
+
+- List
+    - 
+    - is a sequence of data which can be duplicated and can have heterogenous data values.
+    - 
+Set         : 
+Tuple       : 
+Dictionary  : 
